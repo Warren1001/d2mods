@@ -31,7 +31,7 @@ Everything this mod allows you to do should be compatible with Vanilla. The Hora
 If you run into problems installing, you can make an issue here on GitHub, send me a message on Discord (Warren1001), or email me at kabryxis@gmail.com.  
 If you have problems installing or using D2RLoader and I'm not immediately available, go to their Discord and post in their support channel and they'll be happy to help.  
 
-When updating this mod to a new version, **do not** drag and drop the mod files and replace the old ones. Delete the old mod folder entirely before installing a new version. Simply replacing files does not always work for updating D2 mods.
+When updating this mod to a new version, **do not** drag and drop the mod files and replace the old ones. Delete the old mod folder entirely before installing a new version. Simply replacing files does not always work for updating D2 mods.  
 
 ### D2RLoader
 
