@@ -44,7 +44,7 @@ I highly recommend using the D2RLoader version of the mod, as D2RLoader has many
 5. Extract the `ighe` folder from the ZIP file into the mods folder. If you've done it correctly, you should see a path similar to `{D2R base folder}\mods\ighe\ighe.mpq\...`.
 6. Launch D2RLoader using D2RLoader.exe in your D2R folder.
 7. Open the D2RLoader settings from the main menu (gear icon) and change `Default Mod` to `ighe`, then restart as it asks.
-8. Done.
+8. Done. Load into a game and begin playing.
 
 ### Vanilla
 
@@ -57,7 +57,7 @@ If you really don't want to use D2RLoader, which I highly recommend to use, then
 5. Go to Battle.net and click the Gear Icon next to Play for D2R, then click Game Settings.
 6. Tick the box that is labeled `Additional command line arguments`.
 7. Paste the following into the text box that shows up: `-mod ighe -txt -enablerespec`. The `-enablerespec` option grants free respecs by Alt + Left Clicking on the stat point allocation buttons in the character screen (only if you've allocated points to that stat).
-8. When updating this mod to a new version, **do not** drag and drop the mod files and replace the old ones. Delete the old mod folder entirely before installing a new version.
+8. Done. Launch the game and load into a game and begin playing.
 
 ## How to Get a Character Started
 
