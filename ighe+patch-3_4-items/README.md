@@ -45,7 +45,7 @@ When updating this mod to a new version, **do not** drag and drop the mod files 
 I highly recommend using the D2RLoader version of the mod, as D2RLoader has many developer debug features available, allowing a lot of cheat functionality for controlling your character's data, generating items, and so much more.
 
 1. Install [D2RLoader](https://d2rloader.net). Their website has installation instructions.
-2. Download the latest `d2rloader-ighe+patch-3_4-items.zip` file from the [Releases]() page.
+2. Download the latest `d2rloader-ighe+patch-3_4-items.zip` file from the [Releases](https://github.com/Warren1001/d2mods/releases) page.
 3. Navigate to your D2R install.
 4. Navigate to the mods folder. If you do not have one, just create one. Your path should be `{D2R base folder}\mods`.
 5. Extract the `ighe+patch-3_4-items` folder from the ZIP file into the mods folder. If you've done it correctly, you should see a path similar to `{D2R base folder}\mods\ighe+patch-3_4-items\ighe+patch-3_4-items.mpq\...`.
@@ -57,7 +57,7 @@ I highly recommend using the D2RLoader version of the mod, as D2RLoader has many
 
 If you really don't want to use D2RLoader, which I highly recommend to use, then:
 
-1. Download the latest `vanilla-ighe+patch-3_4-items.zip` file from the [Releases]() page.
+1. Download the latest `vanilla-ighe+patch-3_4-items.zip` file from the [Releases](https://github.com/Warren1001/d2mods/releases) page.
 2. Navigate to your D2R install.
 3. Navigate to the mods folder. If you do not have one, just create one. Your path should be `{D2R base folder}\mods`.
 4. Extract the `ighe+patch-3_4-items` folder from the ZIP file into the mods folder. If you've done it correctly, you should see a path similar to `{D2R base folder}\mods\ighe+patch-3_4-items\ighe+patch-3_4-items.mpq\...`.

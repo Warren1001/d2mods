@@ -15,7 +15,7 @@ If you run into problems installing, you can make an issue here on GitHub, send 
 
 When updating this mod to a new version, **do not** drag and drop the mod files and replace the old ones. Delete the old mod folder entirely before installing a new version. Simply replacing files does not always work for updating D2 mods.  
 
-1. Download the latest `vanilla-patch-3_4-items.zip` file from the [Releases]() page.
+1. Download the latest `vanilla-patch-3_4-items.zip` file from the [Releases](https://github.com/Warren1001/d2mods/releases) page.
 2. Navigate to your D2R install.
 3. Navigate to the mods folder. If you do not have one, just create one. Your path should be `{D2R base folder}\mods`.
 4. Extract the `patch-3_4-items` folder from the ZIP file into the mods folder. If you've done it correctly, you should see a path similar to `{D2R base folder}\mods\patch-3_4-items\patch-3_4-items.mpq\...`.
