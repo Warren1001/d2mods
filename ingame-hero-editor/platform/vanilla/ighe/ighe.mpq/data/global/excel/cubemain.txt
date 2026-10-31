@@ -241,12 +241,6 @@ set ilvl to max sup	1				100					2	"any,hiq"	r15						useitem	99																
 set ilvl to max magic	1				100					2	"any,mag"	r15						useitem	99																												r15																																																										0
 set ilvl to max rare	1				100					2	"any,rar"	r15						useitem	99																												r15																																																										0
 																																																																																																									0
-tp to andy	1				100					1	r01							"Red Portal,lvl=37,qty=1"																													r02																																																										0
-tp to duriel	1				100					1	r02							"Red Portal,lvl=73,qty=1"																													r03																																																										0
-tp to meph	1				100					1	r03							"Red Portal,lvl=102,qty=1"																													r04																																																										0
-tp to diablo	1				100					1	r04							"Red Portal,lvl=108,qty=1"																													r05																																																										0
-tp to baal	1				100					1	r05							"Red Portal,lvl=132,qty=1"																													r01																																																										0
-																																																																																																									0
 uptier norm wep norm->exc	1				100					2	"weap,bas,nor"	gpr						"useitem,mod,exc"																													gpr																																																										0
 uptier norm armor norm->exc	1				100					2	"armo,bas,nor"	gpr						"useitem,mod,exc"																													gpr																																																										0
 uptier sup norm->exc	1				100					2	"any,bas,hiq"	gpr						"useitem,mod,exc"																													gpr																																																										0

@@ -2,7 +2,7 @@
 
 ## Last updated for D2R 3.3 (93847)
 
-The purpose of this mod is to have an in-game testing tool that is significantly more convenient for item generation than an external hero editor. It remains as close to unmodded as possible, modifying nothing existing, and only adding new mechanics. With that said, some things have to be altered to make features of this mod possible:
+The purpose of this mod is to have an in-game testing tool that is significantly more convenient for basic item generation than an external hero editor. It remains as close to unmodded as possible, modifying nothing existing, and only adding new mechanics. With that said, some things have to be altered to make features of this mod possible:
 - Horadric Cube name will appear like a normal item.
 - Horadric Cube will likely no longer trigger quest statuses, but quests should still complete normally.
 - Item buy values have been reduced significantly and item sell values have been increased significantly.
@@ -62,6 +62,8 @@ If you really don't want to use D2RLoader, which I highly recommend to use, then
 ## How to Get a Character Started
 
 ### D2RLoader
+
+The initial process can be sped up with a hero editor such as [d2emu's hero editor](https://d2emu.com/hero), but D2RLoader makes the process quick and easy as well.
 
 Ensure Developer Console is enabled in the D2RLoader settings in the main menu. You can open and close the Developer Console with Ctrl+` (above Tab, next to 1).
 1. Create a character and head in-game.
@@ -124,7 +126,7 @@ Examples:
 - As an Amazon: Magic Grand Charm + El Rune = New Magic Grand Charm with +1 to Javelin and Spear Skills
 - As a Warlock: Magic Grand Charm + Tir Rune = New Magic Grand Charm with +1 to Demon Skills
 
-### Sunder charms
+### Sunder Charms
 
 New convenience recipes were added that are the same as original recipes but without the shards.
 The materials will be refunded allowing you to craft again.
@@ -135,6 +137,10 @@ Additionally, once you have a Renewed Sunder charm, you can also use the Unique 
 ### Colossal Jewels
 
 Akara sells two jewels. The one closest to the runes is the normal jewel. The other one is the colossal jewel base. You can craft Colossal Jewels using the Unique recipe (Perfect Amethyst) with the colossal jewel base.
+
+### D2RLoader
+
+If you are using D2RLoader, you can clone any item exactly by placing it in the Horadric Cube by itself and transmuting. If the item is two slots wide, the cloned item will appear slightly outside of the Horadric Cube, but this is to be expected.
 
 ### Other
 
