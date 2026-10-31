@@ -19,8 +19,8 @@ The purpose of this mod is to have an in-game testing tool that is significantly
 
 It is important to note that items found naturally while playing with this mod will still contribute to your Chronicle. You won't get banned if you accidentally log into online with the mod, but several things won't work correctly and give you errors, such as vendoring.
 
-I tried my best to establish a pattern for cube recipes.
-Here are the relevant changes of the mod:
+I tried my best to establish a pattern for cube recipes.  
+Here are the relevant changes of the mod:  
 - Akara's Misc page has a ton of items for sale, many of which are used for cube recipes also added by the mod.
 - Added a bunch of cube recipes. All original cube recipes are untouched.
 
@@ -28,8 +28,8 @@ Everything this mod allows you to do should be compatible with Vanilla. The Hora
 
 ## How to Install
 
-If you run into problems installing, you can make an issue here on GitHub, send me a message on Discord (Warren1001), or email me at kabryxis@gmail.com.
-If you have problems installing or using D2RLoader and I'm not immediately available, go to their Discord and post in their support channel and they'll be happy to help.
+If you run into problems installing, you can make an issue here on GitHub, send me a message on Discord (Warren1001), or email me at kabryxis@gmail.com.  
+If you have problems installing or using D2RLoader and I'm not immediately available, go to their Discord and post in their support channel and they'll be happy to help.  
 
 When updating this mod to a new version, **do not** drag and drop the mod files and replace the old ones. Delete the old mod folder entirely before installing a new version. Simply replacing files does not always work for updating D2 mods.
 
@@ -128,25 +128,25 @@ Examples:
 
 ### Sunder Charms
 
-New convenience recipes were added that are the same as original recipes but without the shards.
-The materials will be refunded allowing you to craft again.
-A Renewed Sunder charm can only be obtained by crafting a Latent Sunder charm into a Renewed Sunder charm.
-A Renewed Sunder charm can be used to craft itself again using the same ingredients as the Latent recipe.
-Additionally, once you have a Renewed Sunder charm, you can also use the Unique recipe (Perfect Amethyst) to reroll into any Renewed Sunder charm.
+New convenience recipes were added that are the same as original recipes but without the shards.  
+The materials will be refunded allowing you to craft again.  
+A Renewed Sunder charm can only be obtained by crafting a Latent Sunder charm into a Renewed Sunder charm.  
+A Renewed Sunder charm can be used to craft itself again using the same ingredients as the Latent recipe.  
+Additionally, once you have a Renewed Sunder charm, you can also use the Unique recipe (Perfect Amethyst) to reroll into any Renewed Sunder charm.  
 
 ### Colossal Jewels
 
-Akara sells two jewels. The one closest to the runes is the normal jewel. The other one is the colossal jewel base. You can craft Colossal Jewels using the Unique recipe (Perfect Amethyst) with the colossal jewel base.
+Akara sells two jewels. The one closest to the runes is the normal jewel. The other one is the colossal jewel base. You can craft Colossal Jewels using the Unique recipe (Perfect Amethyst) with the colossal jewel base.  
 
 ### D2RLoader
 
-If you are using D2RLoader, you can clone any item exactly by placing it in the Horadric Cube by itself and transmuting. If the item is two slots wide, the cloned item will appear slightly outside of the Horadric Cube, but this is to be expected.
+If you are using D2RLoader, you can clone any item exactly by placing it in the Horadric Cube by itself and transmuting. If the item is two slots wide, the cloned item will appear slightly outside of the Horadric Cube, but this is to be expected.  
 
 ### Other
 
-For Crafted items, the recipe is the same however you only need the rune and a Scroll of Identify. The gem and the jewel are no longer needed. The recipe will return the rune and scroll for you to craft again.
-Additionally, you can use crafted items to re-roll the craft, so you don't need to keep getting magic items.
-Lastly, the item level of the crafted item is always the item level of the original item. The item level will never change. Character level no longer matters.
-The original crafting recipes still exist.
+For Crafted items, the recipe is the same however you only need the rune and a Scroll of Identify. The gem and the jewel are no longer needed. The recipe will return the rune and scroll for you to craft again.  
+Additionally, you can use crafted items to re-roll the craft, so you don't need to keep getting magic items.  
+Lastly, the item level of the crafted item is always the item level of the original item. The item level will never change. Character level no longer matters.  
+The original crafting recipes still exist.  
 
-There is no way to acquire specific Rare items or any other Magic items besides blindly rerolling, using D2RLoader's developer debug features, or using a hero editor.
+There is no way to acquire specific Rare items or any other Magic items besides blindly rerolling, using D2RLoader's developer debug features, or using a hero editor.  
