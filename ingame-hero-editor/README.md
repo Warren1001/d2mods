@@ -14,7 +14,7 @@ The purpose of this mod is to have an in-game testing tool that is significantly
 - Gambling screen has all item bases.
 - Some items that aren't typically droppable via monsters may now be able to (unintentionally).
 - All movement skills are enabled in town.
-- Teleporting through walls is allowed in Duriel's Lair.
+- Teleporting through walls is allowed in Duriel's Chamber.
 - You can carry as many unique charms as you want without restriction.
 
 It is important to note that items found naturally while playing with this mod will still contribute to your Chronicle. You won't get banned if you accidentally log into online with the mod, but several things won't work correctly and give you errors, such as vendoring.
