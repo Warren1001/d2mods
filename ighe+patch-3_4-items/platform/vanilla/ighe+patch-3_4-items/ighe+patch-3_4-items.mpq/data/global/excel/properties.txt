@@ -285,3 +285,5 @@ extra-skill-dmg%-rand	281	1	1	passive_fire_mastery			1	passive_ltng_mastery			1	
 war-tab-rand	282	1	10	item_addskill_tab		21	10	item_addskill_tab		22	10	item_addskill_tab		23																							0
 extra-mag	283	1	1	passive_mag_mastery																												+#% to Magic Skill Damage		Min %	Max %		0
 res-fire-cold	284	1	1	fireresist			3	coldresist																								All Resistances +#		Min %	Max %		0
+ind-free	285	1	20				1	item_cannotbefrozen																													0
+regen-both	286	1	1	hpregen			3	manarecoverybonus																													0

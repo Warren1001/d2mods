@@ -454,8 +454,3 @@ socket 2 magic	1				100					2	"any,mag,nos"	r02						useitem				sock			2	2						
 1 Mal Rune + 1 Perfect Diamond + 1 Mystical Black Cleft -> Mystical Black Cleft	1				100					3	Crafted Black Cleft	r23	gpw					Crafted Black Cleft	99																												r23																													gpw																													0
 																																																																																																									0
 1 Hel Rune + 1 Socketed Item -> Unsocket Sockets on Item	1				100					3	"any,sock"	r15	isc					"useitem,rem"																																																																																							0
-																																																																																																									0
-fix eternity melee normal	1				100					2	"mele,nor"	vps						useitem			100	swing2			30	30	dmg/lvl		24																																																																												0
-fix eternity melee sup	1				100					2	"mele,hiq"	vps						useitem			100	swing2			30	30	dmg/lvl		24																																																																												0
-fix eternity missile normal	1				100					2	"miss,nor"	vps						useitem			100	swing2			30	30	dmg/lvl		24																																																																												0
-fix eternity missile sup	1				100					2	"miss,hiq"	vps						useitem			100	swing2			30	30	dmg/lvl		24																																																																												0

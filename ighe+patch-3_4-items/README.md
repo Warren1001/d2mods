@@ -6,7 +6,6 @@ If you find a bug or crash or any problem related to this mod, please report it 
 
 **Important Notes:**
 - Grim's Burning Dead: There are three monsters called "Burning Dead Archer", I took the weakest one for the reanimation.
-- Eternity: Softcode does not support having as many item stats for runewords as the new Eternity has (3.4 will likely expand it), thus a workaround was forced. After making Eternity, cube it with a stamina potion to give it its missing stats. For clarity, this recipe will work on any normal or superior melee or missile weapon, runeword or not, and there is nothing preventing using the recipe repeatedly.
 - Isenhart's Armory: The set bonuses (not those that are individual to an item) will revert to Vanilla if mod `patch-3_4-items` is no longer loaded, but all other item stats will remain.
 
 The purpose of this mod is to have an in-game testing tool that is significantly more convenient for basic item generation than an external hero editor. It remains as close to unmodded as possible, modifying nothing existing, and only adding new mechanics. With that said, some things have to be altered to make features of this mod possible:
