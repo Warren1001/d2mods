@@ -13,7 +13,7 @@ If you find a bug or crash or any problem related to this mod, please report it 
 If you run into problems installing, you can make an issue here on GitHub, send me a message on Discord (Warren1001), or email me at kabryxis@gmail.com.  
 
 0. If you are updating from a previous version, delete the `{D2R base folder}\mods\patch-3_4-items` mod folder first. Simply replacing the files may cause issues.
-1. Download the latest `vanilla-patch-3_4-items.zip` file from the [Releases]() page.
+1. Download the latest `vanilla-patch-3_4-items.zip` file from the [Releases](https://github.com/Warren1001/d2mods/releases) page or [directly here](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Warren1001/d2mods/tree/main/patch-3_4-items/platform/vanilla/vanilla-patch-3_4-items).
 2. Navigate to your D2R install.
 3. Navigate to the mods folder. If you do not have one, just create one. Your path should be `{D2R base folder}\mods`.
 4. Extract the `patch-3_4-items` folder from the ZIP file into the mods folder. If you've done it correctly, you should see a path similar to `{D2R base folder}\mods\patch-3_4-items\patch-3_4-items.mpq\...`.

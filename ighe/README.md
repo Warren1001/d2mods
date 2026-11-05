@@ -39,7 +39,7 @@ I highly recommend using the D2RLoader version of the mod, as D2RLoader has many
 
 0. If you are updating from a previous version, delete the `{D2R base folder}\mods\ighe` mod folder first. Simply replacing the files may cause issues.
 1. Install [D2RLoader](https://d2rloader.net). Their website has installation instructions.
-2. Download the latest `d2rloader-ighe.zip` file from the [Releases]() page.
+2. Download the latest `d2rloader-ighe.zip` file from the [Releases](https://github.com/Warren1001/d2mods/releases) page or [directly here](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Warren1001/d2mods/tree/main/ighe/platform/d2rloader/d2rloader-ighe).
 3. Navigate to your D2R install.
 4. Drag and drop both the `ighe` folder and the `d2rloader` folder from the ZIP file into your D2R folder.
 5. Launch D2RLoader using D2RLoader.exe in your D2R folder.
@@ -51,7 +51,7 @@ I highly recommend using the D2RLoader version of the mod, as D2RLoader has many
 If you really don't want to use D2RLoader, which I highly recommend to use, then:
 
 0. If you are updating from a previous version, delete the `{D2R base folder}\mods\ighe` mod folder first. Simply replacing the files may cause issues.
-1. Download the latest `vanilla-ighe.zip` file from the [Releases]() page.
+1. Download the latest `vanilla-ighe.zip` file from the [Releases](https://github.com/Warren1001/d2mods/releases) page or [directly here](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Warren1001/d2mods/tree/main/ighe/platform/vanilla/vanilla-ighe).
 2. Navigate to your D2R install.
 3. Navigate to the mods folder. If you do not have one, just create one. Your path should be `{D2R base folder}\mods`.
 4. Extract the `ighe` folder from the ZIP file into the mods folder. If you've done it correctly, you should see a path similar to `{D2R base folder}\mods\ighe\ighe.mpq\...`.
