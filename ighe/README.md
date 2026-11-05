@@ -33,32 +33,31 @@ Everything this mod allows you to do should be compatible with Vanilla. The Hora
 If you run into problems installing, you can make an issue here on GitHub, send me a message on Discord (Warren1001), or email me at kabryxis@gmail.com.  
 If you have problems installing or using D2RLoader and I'm not immediately available, go to their Discord and post in their support channel and they'll be happy to help.  
 
-When updating this mod to a new version, **do not** drag and drop the mod files and replace the old ones. Delete the old mod folder entirely before installing a new version. Simply replacing files does not always work for updating D2 mods.  
-
 ### D2RLoader
 
 I highly recommend using the D2RLoader version of the mod, as D2RLoader has many developer debug features available, allowing a lot of cheat functionality for controlling your character's data, generating items, and so much more.
 
+0. If you are updating from a previous version, delete the `{D2R base folder}\mods\ighe` mod folder first. Simply replacing the files may cause issues.
 1. Install [D2RLoader](https://d2rloader.net). Their website has installation instructions.
-2. Download the latest `d2rloader-ighe.zip` file from the [Releases](https://github.com/Warren1001/d2mods/releases) page.
+2. Download the latest `d2rloader-ighe.zip` file from the [Releases]() page.
 3. Navigate to your D2R install.
-4. Navigate to the mods folder. If you do not have one, just create one. Your path should be `{D2R base folder}\mods`.
-5. Extract the `ighe` folder from the ZIP file into the mods folder. If you've done it correctly, you should see a path similar to `{D2R base folder}\mods\ighe\ighe.mpq\...`.
-6. Launch D2RLoader using D2RLoader.exe in your D2R folder.
-7. Open the D2RLoader settings from the main menu (gear icon below `Play` button) and change `Default Mod` to `ighe`, then restart as it asks.
-8. Done. Load into a game and begin playing.
+4. Drag and drop both the `ighe` folder and the `d2rloader` folder from the ZIP file into your D2R folder.
+5. Launch D2RLoader using D2RLoader.exe in your D2R folder.
+6. Open the D2RLoader settings from the main menu (gear icon below `Play` button) and change `Default Mod` to `ighe`, then restart as it asks.
+7. Done. Load into a game and begin playing.
 
 ### Vanilla
 
 If you really don't want to use D2RLoader, which I highly recommend to use, then:
 
-1. Download the latest `vanilla-ighe.zip` file from the [Releases](https://github.com/Warren1001/d2mods/releases) page.
+0. If you are updating from a previous version, delete the `{D2R base folder}\mods\ighe` mod folder first. Simply replacing the files may cause issues.
+1. Download the latest `vanilla-ighe.zip` file from the [Releases]() page.
 2. Navigate to your D2R install.
 3. Navigate to the mods folder. If you do not have one, just create one. Your path should be `{D2R base folder}\mods`.
 4. Extract the `ighe` folder from the ZIP file into the mods folder. If you've done it correctly, you should see a path similar to `{D2R base folder}\mods\ighe\ighe.mpq\...`.
 5. Go to Battle.net and click the Gear Icon next to Play for D2R, then click Game Settings.
 6. Tick the box that is labeled `Additional command line arguments`.
-7. Paste the following into the text box that shows up: `-mod ighe -txt -enablerespec`. The `-enablerespec` option grants free respecs by Alt + Left Clicking on the stat point allocation buttons in the character screen (only if you've allocated points to that stat).
+7. Paste the following into the text box that shows up: `-mod ighe -txt`
 8. Done. Launch the game and load into a game and begin playing.
 
 ## How to Get a Character Started
@@ -79,7 +78,7 @@ You can now use all of the developer features. Explore around, I will not be exp
 3. Type the command `cheat quests` to complete all quests in the current difficulty.
 4. Repeat 2 and 3 for each difficulty.
 
-Remember to enable `Save Cheat Items` under `Debug Tools > Cheat Status` if you use D2RLoader functionality to spawn items and want the items to persist between games!
+Note: `Save Cheat Items` under `Debug Tools > Cheat Status` must be enabled **before** using D2RLoader functionality to spawn items and want the items to persist between games! You will lose all items spawned with D2RLoader otherwise. It is enabled by default.  
 
 ### Vanilla
 
