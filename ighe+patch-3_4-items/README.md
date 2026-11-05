@@ -41,6 +41,8 @@ If you have problems installing or using D2RLoader and I'm not immediately avail
 
 I highly recommend using the D2RLoader version of the mod, as D2RLoader has many developer debug features available, allowing a lot of cheat functionality for controlling your character's data, generating items, and so much more.
 
+**Note**: For Advanced users or users very familiar with D2RLoader, this mod will overwrite `cheatsettings.json`. You can simply skip the `d2rloader` folder process on Step 4 if you do not want to overwrite it.
+
 0. If you are updating from a previous version, delete the `{D2R base folder}\mods\ighe+patch-3_4-items` mod folder first. Simply replacing the files may cause issues.
 1. Install [D2RLoader](https://d2rloader.net). Their website has installation instructions.
 2. Download the latest `d2rloader-ighe+patch-3_4-items.zip` file from the [Releases](https://github.com/Warren1001/d2mods/releases) page or [directly here](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Warren1001/d2mods/tree/main/ighe%2Bpatch-3_4-items/platform/d2rloader/d2rloader-ighe%2Bpatch-3_4-items).
