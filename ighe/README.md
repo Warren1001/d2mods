@@ -23,8 +23,8 @@ It is important to note that items found naturally while playing with this mod w
 
 I tried my best to establish a pattern for cube recipes.  
 Here are the relevant changes of the mod:  
-- Akara's Misc page has a ton of items for sale, many of which are used for cube recipes also added by the mod.
-- Added a bunch of cube recipes. All original cube recipes are untouched.
+- Akara's Misc page has a ton of items for sale, including the Horadric Cube, many of which are used for cube recipes also added by the mod.
+- Added a bunch of cube recipes, which you can find below. All original cube recipes are untouched.
 
 Everything this mod allows you to do should be compatible with Vanilla. The Horadric Cube isn't marked as a quest item in the technical sense so it may look weird in-game, but Vanilla and hero editors should be fine with it.
 
@@ -145,6 +145,8 @@ Akara sells two jewels. The one closest to the runes is the normal jewel. The ot
 ### D2RLoader
 
 If you are using D2RLoader, you can clone any item exactly by placing it in the Horadric Cube by itself and transmuting. If the item is two slots wide, the cloned item will appear slightly outside of the Horadric Cube, but this is to be expected.  
+
+Note: The cube is adjusted to 4x4 to allow large item duping, but the texture will not reflect the new size as I don't want to edit the sprite because that's a lot of work.  
 
 ### Other
 
